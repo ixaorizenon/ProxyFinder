@@ -8,8 +8,16 @@
 
 1. Ensure that Python 3.12 is installed on your system.
 2. Locate the `proxyfinder.py` file.
-3. Double-click the `proxyfinder.py` file to run it.
-4. The script will create a file named `proxy.txt` in the same directory as `proxyfinder.py`, containing the found proxies.
+3. Double-click the `proxyfinder.py` file to run it. 
+   - This will create a file named `proxy.txt` in the same directory as `proxyfinder.py`, containing the found proxies.
+4. Alternatively, you can run the script from the terminal:
+   - Open Command Prompt or PowerShell.
+   - Navigate to the directory containing `proxyfinder.py`.
+   - Run the script with the following command:
+     ```bash
+     python proxyfinder.py
+     ```
+   - This will also create a file named `proxy.txt` in the same directory as `proxyfinder.py`.
 
 ### Linux
 
